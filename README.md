@@ -1,7 +1,6 @@
-# PowerBIDash_WebScraping
+# PowerBIDash
 
 This project able you to  : 
 
-🧠 Doing web Scraping for a Coin Market Web-Site using python ! 
+🚀 Visualise  You're a Coin Market Dashbord on Power BI !
 
-🚀 Visualise  You're Dashbord on Power BI ! 
