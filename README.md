@@ -2,5 +2,5 @@
 
 This project able you to  : 
 
-🚀 Visualise  You're a Coin Market Dashbord on Power BI !
+🚀 Visualise  You're  Coin Market Dashbord on Power BI !
 
